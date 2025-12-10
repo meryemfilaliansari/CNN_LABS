@@ -1,7 +1,6 @@
 # Laboratoires de Réseaux de Neurones Convolutionnels (CNN)
 
 **Auteur:** FILALI ANSARI Meryem  
-**Année académique:** 2024-2025  
 **Date:** Décembre 2025
 
 ---
