@@ -1118,7 +1118,7 @@ Puis ouvrir :
 **FILALI ANSARI Meryem**
 
 Étudiante en Deep Learning et Vision par Ordinateur  
-Année académique 2024-2025
+
 
 **Repository GitHub :** [LAB_LINEAR_AND_LOGISTIC_REG](https://github.com/meryemfilaliansari/LAB_LINEAR_AND_LOGISTIC_REG)
 
